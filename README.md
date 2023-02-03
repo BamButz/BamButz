@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/benjamin-j-343b82168/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-BamButz-0a0?logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/12193649/bambutz)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BamButz&show_icons=true&count_private=true&theme=dark&hide=php,smarty&layout=compact)
