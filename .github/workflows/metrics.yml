@@ -22,3 +22,7 @@ jobs:
           plugin_languages: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
